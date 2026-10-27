@@ -1,0 +1,17 @@
+*.order
+*.o
+*.o.d
+*.ko
+*.cmd
+*.symvers
+*.mod
+*.mod.c
+current.dts
+current-dts.log
+dtc-build.log
+*.dtbo
+.vscode-ctags
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+*.wav
+.clang-format
